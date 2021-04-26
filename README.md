@@ -1,5 +1,5 @@
 This is a simple project made in React.js, the purpose is, as a user, I want to be able to add/associate artists to an album/single release,
-the supported functionality covers searching, adding and removing artists.
+the supported functionality covers searching, adding and removing artists, as well as some simple validation cases/error handling.
 
 ## Available Scripts
 
